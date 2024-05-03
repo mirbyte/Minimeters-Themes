@@ -1,0 +1,36 @@
+credit: "github mirbyte"
+
+color: 210, 210, 210
+selection: 155, 150, 200
+text: 255, 255, 255
+bg: 50, 50, 50
+accent: 89, 96, 111
+bgaccent: 30,30,30
+
+# waveform: 255,0,255,255
+
+rgb_waveform_opacity_with_history: 130
+history_low: 255, 130, 130
+history_mid: 7, 27, 155
+history_high: 200, 200, 255
+
+
+stereometer_low: 255, 130, 130
+stereometer_mid: 7, 27, 155 # green: 0, 255, 130
+stereometer_high: 0, 100, 30 # 100, 50, 255
+
+spectrum_analyzer_main: 210, 210, 210
+spectrum_analyzer_secondary: 0, 255, 190, 200
+
+spectrogram_low: 260
+spectrogram_high: 420
+color_bars_low: 186
+color_bars_high: 385
+color_bars_opacity: 255
+
+color_bars_low: 180
+color_bars_high: 390
+color_bars_opacity: 255
+
+oscilloscope_main: 210, 210, 210
+oscilloscope_bg: 210, 210, 210, 0
