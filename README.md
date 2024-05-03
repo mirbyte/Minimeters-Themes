@@ -4,6 +4,8 @@
 - Lows: white
 - Mids: blue
 - Highs: green
+
+
 **Spectrum**
 - Mono: white
 - Stereo/sides: greenish
