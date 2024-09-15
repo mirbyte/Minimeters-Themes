@@ -1,12 +1,12 @@
 @echo off
 Title Minimeters Theme Installer [github mirbyte]
 echo.
-echo Is Minimeters data on C: drive? (Y/N)
+echo Is Minimeters installed on default C: drive location? (Y/N)
 echo.
 echo.
 choice /c YN /n /m "Press Y for Yes, N for No:"
 if errorlevel 2 (
-	echo You chose "No". Running the script was aborted.
+	echo You chose No. Running the script was aborted.
 	echo.
 	echo -----------------------------------------------
 	pause
