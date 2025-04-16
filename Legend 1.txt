@@ -1,0 +1,54 @@
+## All RGB & RGBA colors follow a 0-255 range, with an optional alpha channel.
+## Example: White is 255,255,255,255 or 255,255,255.
+
+## theme version 1
+credit: "github/mirbyte"
+
+color: 220, 233, 238
+selection: 153, 102, 51
+text: 255, 223, 180
+accent: 50, 50, 50
+bg: 68, 70, 71
+bgaccent: 72, 74, 75
+
+
+
+# rgb_waveform_opacity_with_history:170
+history_low: 0,0,0
+history_mid: 0,0,0
+history_high: 0,0,0
+
+# waveform_low: 0,0,0
+# waveform_mid: 0,0,0
+# waveform_high: 124, 125, 127
+waveform: 155, 156, 159
+
+oscilloscope_main: 155, 156, 159
+oscilloscope_bg: 50, 50,50
+
+# stereometer not from color palette due to how it functions
+stereometer_low: 255,255,255
+stereometer_mid: 153, 86, 36
+stereometer_high: 74, 162, 255
+
+
+spectrum_analyzer_main: 0,0,0 # mono
+spectrum_analyzer_secondary: 155, 156, 159 # stereo
+spectrum_analyzer_frequency_lines: 0,0,0
+spectrum_analyzer_reference_line: 50, 50, 50
+spectrum_analyzer_threshold_line: 50, 50, 50
+
+## If spectrogram_main or color_bars_main is given a color value the spectrogram becomes monotone and the hue values are ignored.
+spectrogram_main: 155, 156, 159
+color_bars_main: 155, 156, 159
+
+## Set the color of the RMS meter
+loudness_main: 0,0,0
+loudness_text: 255, 204, 204
+
+## This shows up when connecting to an audio device fails.
+# error_bar: 0,0,0
+
+## Loudness Meter (currently named Peak/LUFS)
+loudness_main: 255, 223, 180
+loudness_text: 35, 36, 38
