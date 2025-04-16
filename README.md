@@ -1,6 +1,6 @@
 # Minimeters-Themes
-## Legends 1
-*Inspired by FL Studio theme "Legends"*
+## Legend 1
+*Inspired by FL Studio theme "Legend"*
 
 **Stereometer**
 - Lows: white
