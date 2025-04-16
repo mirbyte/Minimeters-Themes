@@ -29,10 +29,11 @@
 - Stereo/sides: greenish
 
 **Spectogram**
-- default
+- multi
 
 
-![image](https://github.com/mirbyte/Minimeters-Themes/assets/83219244/c2485bda-2349-4f8a-a817-11e871942168)
+![Dark Grey ss](https://github.com/user-attachments/assets/641a23b3-c80a-45de-a02c-aaa1b6900c32)
+
 
 <br>
 
