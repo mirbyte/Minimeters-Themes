@@ -37,5 +37,5 @@
 
 <br>
 
-### Installer only for windows
+
 ### Make sure to launch the app once before running the installer so that the themes folder gets created
