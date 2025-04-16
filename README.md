@@ -38,4 +38,4 @@
 <br>
 
 
-### Make sure to launch the app once before running the installer so that the themes folder gets created
+**Make sure to launch the app once before running the installer so that the themes folder gets created.**
